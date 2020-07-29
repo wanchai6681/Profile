@@ -1,0 +1,65 @@
+.container {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+}
+.lead{
+    margin-top: 4%;
+    margin: 4%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 18px;
+}
+title{
+    font-size: 18px;
+}
+.carousel{
+    width: auto;
+    height: auto;
+}
+.col-md-5{
+   width: 500PX;
+   height: 500PX;
+}
+.col-md-7{
+    text-align: center;
+    margin: auto;
+    margin-top: auto;
+}
+.navbar{
+    background-image: url("img/1.jpg");
+    background-size: auto;
+    width: auto;
+    height: 1.5cm;
+}
+@media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+      font-size: 3.5rem;
+    }
+}
+.carousel-inner{
+    margin-top: 3%;
+    width: auto;
+    height: 350px;
+}
+.navbar-toggler-icon{
+    width: auto;
+    height: auto;
+}
+.featurette-divider{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.card-deck{
+    text-align: center;
+    font-size: 12px;
+
+}
+.card-title{
+    text-align: center;
+    font-size: 16px;
+}
+.card{
+    width: 250px;
+    height: 350px;
+}
